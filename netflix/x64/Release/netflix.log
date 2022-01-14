@@ -1,0 +1,17 @@
+﻿  netflix.cpp
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(203,95): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(203,70): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(511,94): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(511,63): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(536,54): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(536,49): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(1025,102): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(1025,71): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(1050,62): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\netflix\netflix\netflix.cpp(1050,57): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  Code wird generiert.
+  1 of 560 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  netflix.vcxproj -> C:\Users\11C\Documents\netflix\x64\Release\Netflix.exe

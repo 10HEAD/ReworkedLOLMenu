@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="netflix.cpp" />
+    <ClCompile Include="Menu.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBar.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Enums.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBar.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{ada602a2-1d77-4e94-b50e-f283780e7c67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{e110d48a-2e84-456b-b53b-fbf236659b4b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
